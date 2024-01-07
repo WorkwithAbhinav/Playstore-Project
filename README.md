@@ -27,3 +27,24 @@ In this project, our goal is to visualize raw data to derive meaningful insights
 
 - **Modeling**
   - Using various classification modeling methods to determine the best-suited approach and applying it.
+
+## Usage
+
+To replicate or explore this project:
+
+1. Clone this repository.
+2. Ensure the required libraries are installed using the provided `requirements.txt` file.
+3. Run the Python script or Jupyter Notebook to execute the code.
+
+## Contributions
+
+Contributions to enhance the visualization techniques, optimize code, or add more comprehensive analyses are welcome. Please fork the repository, make your changes, and create a pull request.
+
+## Contact Information
+
+For any queries or suggestions regarding this project, feel free to reach out:
+
+- ✉️ Email: work.with.abhinav@gmail.com
+- 🔗 LinkedIn: workwithabhinav
+
+Happy visualizing! 📊✨
